@@ -1,0 +1,6 @@
+framework module Pods_diploma_project_advanced {
+  umbrella header "Pods-diploma-project-advanced-umbrella.h"
+
+  export *
+  module * { export * }
+}

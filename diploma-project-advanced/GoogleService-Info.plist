@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>26537644943-79ttqkchtj2h95rudtd8naduci77fskp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.26537644943-79ttqkchtj2h95rudtd8naduci77fskp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBV5Y7xapQ022S6G_rLxVOKsYsRQOMkn4k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>26537644943</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Kryptonian.diploma-project-advanced</string>
+	<key>PROJECT_ID</key>
+	<string>diploma-project-eb7df</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diploma-project-eb7df.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:26537644943:ios:4dbe7180fce84592</string>
+	<key>DATABASE_URL</key>
+	<string>https://diploma-project-eb7df.firebaseio.com</string>
+</dict>
+</plist>
